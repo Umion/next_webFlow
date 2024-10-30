@@ -1,7 +1,8 @@
 const Home = () => (
-  <div className="text-3xl text-violet-950 font-black">
-    <p>Lorem ipsum</p>
-  </div>
+  <>
+    <h1 className="h1-bold">Lorem ipsum Next js</h1>
+    <h1 className="h1-bold font-space-grotesk">Lorem ipsum Next js</h1>
+  </>
 );
 
 export default Home;
